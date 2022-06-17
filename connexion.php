@@ -1,3 +1,3 @@
 <?php
-echo "branch connexion";
+echo "branch connexion  conflit modif master";
 ?>
